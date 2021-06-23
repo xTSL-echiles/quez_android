@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question0">2+2=4</string>
+    <string name="question1">7+2=4</string>
+    <string name="question2">1+2=4</string>
+    <string name="question3">6+2=8</string>
+    <string name="question4">Москва столица Питербурга</string>
+    <string name="question5">2+2=1</string>
+    <string name="question6">2+2=9</string>
+    <string name="question7">2+2=1</string>
+    <string name="question8">2+2=-2</string>
+    <string name="question9">22+22=44</string>
+    <string name="yesBtn">Да</string>
+    <string name="correct">Правильно</string>
+    <string name="noBtn">Нет</string>
+    <string name="incorrect">Не правильно</string>
+</resources>
